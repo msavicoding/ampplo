@@ -1076,7 +1076,7 @@ header {
 
     .row-2 {
         text-align: center;
-        height: 240px;
+        height: 300px;
         flex-direction: column;
         width: 100vw;
         border-radius: 0px;
@@ -1099,7 +1099,9 @@ header {
 
         color: white;
         font-size: 18px;
-
+        width: 70%;
+        margin: 15px auto 0 auto;
+        line-height: 35px;
     }
 
     .button-products {
